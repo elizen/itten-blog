@@ -29,3 +29,8 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
           commit_message: ${{ github.event.head_commit.message }}
+                - name: Webhook
+      - uses: distributhor/workflow-webhook@v1
+        env:
+          webhook_url: ${{ secrets.WEBHOOK_URL }}
+          webhook_secret: ${{ secrets.WEBHOOK_SECRET }}
