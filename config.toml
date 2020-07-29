@@ -12,7 +12,7 @@ enableEmoji = true
 [Menus]
   main = [
       {Name = "Archives", URL = "https://itten.fun/posts/"},
-      {Name = "Daddy", URL = "https://blog.elizen.me"},
+      {Name = "Daddy", URL = "https://elizen.me"},
       {Name = "Tags", URL = "https://itten.funtags/"},
       {Name = "Books", URL = "https://itten.fun/books/"},
       {Name = "Movies", URL = "https://itten.fun/movies/"},
