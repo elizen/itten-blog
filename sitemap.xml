@@ -1,117 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://itten.fun/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://itten.fun/tags/photos/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://itten.fun/posts/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://itten.fun/tags/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itten.fun/2021-06-24-qing-feng-gong-yuan/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://itten.fun/2020-12-30-da-li/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/2020-07-26-lang-yuan-photo/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/2020-07-20-wan-da-photo/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/tags/life/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/2020-07-10-new-thing-in-family/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/2020-06-01-happy-6-1/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/2020-05-03-the-letter-of-2020/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/tags/blog/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/2020-04-16-bb/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/change-valine-comments/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/hugo-single-link/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/update-blog-single-photos/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/tags/music/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/huo-zha-le/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/photos/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/movies/</loc>
     <priority>0.1</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/books/</loc>
     <priority>0.1</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://itten.fun/bb/</loc>
   </url>
-  
 </urlset>
